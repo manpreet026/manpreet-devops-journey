@@ -10,6 +10,7 @@ Welcome to my **DevOps Portfolio Repository**, where I’ve documented real-worl
 |---|-------|---------------|-------------|
 | 1 | [Dev Environment for Remote QA Testing](issues/dev-environment-docker-swarm.md) | Docker Swarm, GitLab CI/CD, Nginx | Enabled remote QA testing and reduced manual deployment by 90% |
 | 2 | [Nginx Performance Optimization on AWS Beanstalk](issues/nginx-performance-optimization-on-aws-beanstalk.md) | AWS Elastic Beanstalk, Nginx, Gzip, Brotli | Enabled compression and security headers, improving website speed by 25–30% |
+| 3 | [Secure NPM Package Management with AWS CodeArtifact](issues/secure-npm-package-management-with-aws-codeartifact.md) | AWS CodeArtifact, npm, IAM | Enabled use of both private & public npm packages, increasing developer efficiency by 40% |
 
 ---
 
