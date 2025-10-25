@@ -17,7 +17,7 @@ However, developers faced an issue — after configuring CodeArtifact credential
 - **npm (Node.js)**
 - **.npmrc configuration**
 - **IAM authentication for CodeArtifact**
-- **Jenkins / GitLab CI pipelines** (for package publishing & usage)
+- **GitLab CI/CD pipelines** (for package publishing & usage)
 
 ---
 
